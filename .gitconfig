@@ -1,0 +1,10 @@
+[http]
+	postBuffer = 524288000
+[filter "lfs"]
+	clean = cat
+	smudge = cat
+	process = cat
+	required = false
+[user]
+	email = mehrunnisa786@example.com
+	name = Mehrunnisa
