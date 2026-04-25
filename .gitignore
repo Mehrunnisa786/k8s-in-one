@@ -1,1 +1,19 @@
-<large-file>
+# Large files that exceed GitHub's 100MB limit
+.local/bin/copilot
+.minikube/
+minikube/minikube-linux-amd64
+*.tar
+*.tar.lz4
+*.iso
+
+# OS and editor files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+.env
+
+# Docker and Kubernetes cache
+.docker/
+.kube/
