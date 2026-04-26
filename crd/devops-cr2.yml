@@ -1,0 +1,10 @@
+kind: LuxeAccessory
+apiVersion: fashion.com/v1
+metadata:
+  name: luxe-accessory-new
+spec:
+  name: watch
+  brand: afra-luxe
+  price: 10000
+  color: grey
+  inStock: yes 

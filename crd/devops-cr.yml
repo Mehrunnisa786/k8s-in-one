@@ -1,0 +1,10 @@
+kind: LuxeAccessory
+apiVersion: fashion.com/v1
+metadata:
+  name: luxe-accessory
+spec:
+  name: handbag
+  brand: afra-luxe
+  price: 5000
+  color: black-golden
+  inStock: yes 
